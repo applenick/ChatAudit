@@ -1,0 +1,9 @@
+enabled: true
+
+# Database settings
+database:
+  enabled: true   # Set to true to enable database functionality for storing chat messages.
+                  # Set to false for development mode (messages will not persist).
+
+  save-delay: 10  # Time interval (in seconds) for saving chat messages to the database.
+  batch-size: 100 # Max number of messages to hold before saving as a batch.

@@ -1,2 +1,2 @@
 # ChatAudit
-A Minecraft plugin for Overcast Community to help with long-term storage of chat messages
+A Minecraft plugin to store PGM chat messages to a database
